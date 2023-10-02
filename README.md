@@ -1,4 +1,4 @@
-# Valve Basestation integration for Homeassistant
+# Valve Basestation integration for Homeassistant x02
 
 Read and manage power states for your Valve Index® Base Stations (also referred to as 'Lighthouse V2') through [BLE](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy).
 
